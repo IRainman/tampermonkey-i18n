@@ -1195,22 +1195,22 @@
         "message": "Записей не найдено"
     },
     "BlackCheck": {
-        "message": "Проверка на присутствие в черном списке"
+        "message": "Проверка на присутствие в чёрном списке"
     },
     "Script_Blacklist_Source": {
-        "message": "Список запрещенных источников"
+        "message": "Список запрещённых источников"
     },
     "Server_And_Manual": {
-        "message": "Удаленный + Ручной"
+        "message": "Удалённый + Ручной"
     },
     "Only_Manual": {
         "message": "Только ручной"
     },
     "Manual_Script_Blacklist": {
-        "message": "Ручной чёрный список юзерскриптов и @require"
+        "message": "Ручной чёрный список пользовательских скриптов и @require"
     },
     "This_script_is_blacklisted_": {
-        "message": "Этот скрипт в черном списке!"
+        "message": "Этот скрипт в чёрном списке!"
     },
     "Report_an_issue_to_the_script_hoster_": {
         "message": "Пожаловаться на спам и/или фишинг\n(Может понадобиться пользовательский аккаунт)"
@@ -1222,7 +1222,7 @@
         "message": "Меню действий"
     },
     "Hide_disabled_scripts": {
-        "message": "Скрывать отключенные скрипты"
+        "message": "Скрывать отключённые скрипты"
     },
     "Columns": {
         "message": "Колонки"
@@ -1244,8 +1244,5 @@
     },
     "Default_Dark": {
         "message": "По умолчанию - Тёмная"
-    },
-    "Ok": {
-        "message": "Ок"
     }
 }
